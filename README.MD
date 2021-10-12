@@ -1,4 +1,4 @@
-[<img src="https://forums-images.oneplus.net/attachments/1387/1387307-6300b4506d0122ec382d253096ebd301.gif">
+<img src="https://forums-images.oneplus.net/attachments/1387/1387307-6300b4506d0122ec382d253096ebd301.gif">
 
 
 **tamzytam/tamzytam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
